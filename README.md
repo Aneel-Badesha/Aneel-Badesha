@@ -1,1 +1,1 @@
-- Hi I am Aneel Badesha, I code in multiple programming languages and I am a computer engineering student.
+- Hi I am Aneel Badesha, I am a 4th-year computer engineering student.
