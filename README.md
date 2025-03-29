@@ -1,1 +1,1 @@
-- Hi I am Aneel Badesha, I am a 4th-year computer engineering student.
+- Hi I am Aneel Badesha, I am a 4th-year computer engineering student at Simon Fraser University
