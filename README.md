@@ -1,4 +1,4 @@
-- Hi I am Aneel Badesha, I am a senior computer engineering student at Simon Fraser University from Vancouver, Canada
+- Hi I am Aneel Badesha, I am a senior computer engineering student at Simon Fraser University from Vancouver, Canada.
 
 - I am interested in anything software related, but mostly focus in firmware, embedded and operating systems programming!
 
