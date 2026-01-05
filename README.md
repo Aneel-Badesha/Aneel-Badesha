@@ -2,4 +2,4 @@
 
 - I am interested in anything software related, but mostly focus in firmware, embedded and operating systems programming!
 
-- Heres my linkedIn: https://www.linkedin.com/in/asb2/
+-  Heres my linkedIn: https://www.linkedin.com/in/asb2/
